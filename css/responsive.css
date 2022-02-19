@@ -1,0 +1,63 @@
+@media screen and (max-width:1199px) {
+.outer-wrap {
+    width: 24%;
+}
+}
+
+@media screen and (max-width:991px) {
+.bernard-text h1 {
+    font-size: 26px;
+}
+.bernard-text h6 {
+    padding-bottom: 20px;
+    margin: 0;
+}
+.bernard-text p {
+    margin-top: 20px;
+}
+.sydeny-text h1 {
+    font-size: 100px;
+}
+.right-sydeny {
+    height: 90vh;
+}
+.bernard {
+    padding: 60px 0;
+}
+.feature-sec {
+    padding: 90px 0;
+}
+.feature-txt h1 {
+    font-size: 20px;
+}
+.popup-nav .nav-item a {
+    font-size: 14px;
+}
+.inner-img {
+    height: 200px;
+    max-height: 200px;
+}
+.inner-text h3 {
+    font-size: 18px;
+    padding-bottom: 0;
+}
+.outer-wrap {
+    width: 21%;
+}
+}
+
+@media screen and (max-width:767px) {
+
+}
+
+@media screen and (max-width:640px) {
+
+}
+
+@media screen and (max-width:575px) {   
+    
+}
+
+@media screen and (max-width:480px) {
+
+}
