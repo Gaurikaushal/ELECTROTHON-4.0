@@ -423,3 +423,21 @@ footer {
 .purchase-border {
     padding: 40px 20px;
     border: 1px solid #ccc ;
+}
+.auto-repeat-plan p {
+    text-align: center;
+
+}
+.auto-repeat-plan {
+    padding-top: 20px;
+
+}
+.pck h6 {
+    margin: 0;
+    font-size: 14px;
+}
+.auto-repeat-plan h6 {
+    text-align: center;
+    padding-bottom: 15px;
+    color: red;
+}
